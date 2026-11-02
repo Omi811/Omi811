@@ -1,199 +1,68 @@
 <p align="center">
-  <img src="header.svg" alt="Omi // Agentic AI & Systems Architect" width="850" />
+  <img src="header.svg" alt="Omi - Full-Stack &amp; Systems Engineer" width="850" />
 </p>
+
+### Overview
+
+I am a **Full-Stack &amp; Systems Engineer** specializing in agentic AI architecture, serverless developer tooling, and financial software. My work focuses on building high-performance, low-latency web platforms and bridging open-weight models with practical production workflows:
+
+* **Autonomous AI Architecture:** Reference Model Context Protocol (MCP) servers, multi-platform agent harnesses, and low-latency inference routing.
+* **Serverless Developer Tooling:** Browser-native workstations that eliminate backend costs and operational overhead without sacrificing speed.
+* **Domain Platforms:** Specialized financial reconciliation workflows for Indian SMEs and astronomical computation engines on Cloudflare Workers.
+
+---
+
+### Featured Systems &amp; Applications
+
+| Project | Architectural Domain | Description &amp; Key Technologies | Production Links |
+| :--- | :--- | :--- | :--- |
+| **[FreeLLM Hub](https://github.com/Omi811/freellm-hub)** | Serverless AI Workstation | 100% free, client-side web LLM suite featuring Claude-style interactive code/HTML artifacts canvas, 42+ frontier models, and Groq LPU hardware-accelerated streaming (~450 tok/s).<br><sub>`JavaScript` • `Serverless` • `WebLLM` • `GitHub Pages`</sub> | [🚀 Live Workstation](https://omi811.github.io/freellm-hub/)<br>[📂 Source Repository](https://github.com/Omi811/freellm-hub) |
+| **[Omsetra](https://github.com/Omi811/omsetra)** | Fintech Reconciliation Workspace | Free-first automated reconciliation and collections workspace engineered for Indian founders, SMEs, and accountants. Provides automated ledger parsing, invoice discrepancy tracking, and payment reminders.<br><sub>`TypeScript` • `Next.js` • `Fintech Rails` • `Tailwind CSS`</sub> | [📊 Interactive Demo](https://astrobharat-studio.hp909145.chatgpt.site/demo)<br>[📂 Source Repository](https://github.com/Omi811/omsetra) |
+| **[REA Developer Ecosystem](https://github.com/Omi811/rea-developer-ecosystem)** | Agentic Infrastructure &amp; Protocols | Reverse-engineered architecture blueprints and reference Model Context Protocol (MCP) servers for autonomous AI engineering environments.<br><sub>`TypeScript` • `MCP (Model Context Protocol)` • `Docker` • `Blueprints`</sub> | [🛠️ Architecture Specs](https://github.com/Omi811/rea-developer-ecosystem) |
+| **[Universal SEO Agent Suite](https://github.com/Omi811/universal-seo-agent-suite)** | Cross-Platform GEO Engine | Generative Engine Optimization (GEO) suite comprising 60+ hardened audit tools running across Google Antigravity, OpenAI Codex, and Claude Code to maximize citations in AI Overviews and Perplexity.<br><sub>`Python` • `SQLite` • `Agentic Workflows` • `MCP`</sub> | [🧭 Agent Suite Specs](https://github.com/Omi811/universal-seo-agent-suite) |
+| **[VedaaChari](https://vedaachari.ompanchal.workers.dev)** | Astronomical Computation Platform | Production Vedic astrology and personal reflection platform deployed on Cloudflare Workers. Computes sidereal birth charts, Vimshottari Dasha periods, and astronomical Panchang with zero mandatory signup and local data ownership.<br><sub>`TypeScript` • `Cloudflare Workers` • `Astronomical Algorithms` • `SaaS`</sub> | [🚀 Production Platform](https://vedaachari.ompanchal.workers.dev)<br>[✨ Interactive Demo](https://vedaachari.ompanchal.workers.dev/report-demo) |
+| **[Referral &amp; Rewards Portal](https://github.com/Omi811/Accredian-frontend-task)** | Interactive Conversion Engine | Production referral interface built with Material-UI and Framer Motion, featuring accessible animated modal dialogs, reactive form validation, and responsive promotional landing components.<br><sub>`React` • `Material-UI` • `Framer Motion` • `Vercel`</sub> | [✨ Production Deployment](https://accredian-frontend-task-ochre.vercel.app)<br>[📂 Source Repository](https://github.com/Omi811/Accredian-frontend-task) |
+
+---
+
+### Technical Competencies
+
+| Layer | Technologies &amp; Frameworks |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript (ESNext)` `Python 3.12` `SQL` `HTML5/CSS3` |
+| **AI &amp; Agent Systems** | `Model Context Protocol (MCP)` `Groq LPU Hardware Acceleration` `OpenRouter` `Streaming APIs (SSE)` |
+| **Frontend Architecture** | `React 19` `Next.js (App Router)` `Tailwind CSS` `Framer Motion` `Material-UI` |
+| **Backend &amp; Distributed Systems** | `Node.js` `Cloudflare Workers` `FastAPI` `Fastify/Express` `RESTful & JSON-RPC APIs` |
+| **Infrastructure &amp; Tooling** | `Docker` `Git` `GitHub Actions (CI/CD)` `Vercel` `SQLite` `PostgreSQL` |
+
+---
+
+### Engineering Activity &amp; Metrics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=780&lines=⚡+Building+FreeLLM+Hub+%E2%80%94+Zero-Cost+Serverless+AI+Workstation;🤖+Architecting+Model+Context+Protocol+(MCP)+%26+Autonomous+Agents;💼+Crafting+Omsetra+%E2%80%94+SME+Reconciliation+%26+Cashflow+Rails;🔮+Engineering+VedaaChari+%E2%80%94+Vedic+Astronomy+%26+Reflection+Platform;🛠️+Full-Stack+TypeScript+%7C+Python+%7C+Next.js+%7C+Cloudflare+Workers" alt="Typing Indicator" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Omi811&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=38bdf8&amp;icon_color=818cf8&amp;text_color=94a3b8" alt="GitHub Overview Metrics" height="155" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Omi811&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=38bdf8&amp;text_color=94a3b8" alt="Top Languages" height="155" />
 </p>
+
+---
+
+### Support &amp; Open-Source Patronage
+
+If you find my open-source AI tooling, serverless applications, or architectural blueprints useful, you can support continuous maintenance and cloud infrastructure:
 
 <p align="center">
-  <a href="https://github.com/Omi811?tab=repositories"><img src="https://img.shields.io/badge/Specialization-Agentic%20AI%20%26%20Fintech-00f2fe?style=for-the-badge&logo=openai&logoColor=000" /></a>
-  <a href="https://github.com/Omi811/omsetra"><img src="https://img.shields.io/badge/Fintech-Omsetra-10b981?style=for-the-badge&logo=cashapp&logoColor=fff" /></a>
-  <a href="https://vedaachari.ompanchal.workers.dev"><img src="https://img.shields.io/badge/Platform-VedaaChari-8b5cf6?style=for-the-badge&logo=cloudflare&logoColor=fff" /></a>
-  <a href="https://omi811.github.io/freellm-hub/coffee.html"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
-</p>
-
----
-
-### ⚡ System Telemetry & Blueprint
-
-```typescript
-// architect.profile.ts
-export const omi: DeveloperSpec = {
-  codename: "Omi811",
-  title: "Full-Stack & Agentic AI Engineer",
-  ethos: "Zero-cost serverless interfaces meets high-throughput cognitive agents",
-  domains: [
-    "Autonomous Agent Infrastructure & Model Context Protocol (MCP)",
-    "Serverless Client-Side AI Tooling with Real-Time Streaming Artifacts",
-    "SME Payment Reconciliation & Collections Architecture for India",
-    "Vedic Astronomical Computation & Private Reflection Platforms"
-  ],
-  capabilities: {
-    languages: ["TypeScript", "Python", "JavaScript (ESNext)", "SQL"],
-    frameworks: ["React 19", "Next.js", "Cloudflare Workers", "Node.js", "FastAPI", "Tailwind CSS", "Material-UI"],
-    protocols: ["Model Context Protocol (MCP)", "Server-Sent Events (SSE)", "REST/JSON-RPC"],
-    runtimeSpeed: "~450 tokens/sec via Groq LPU hardware acceleration"
-  }
-};
-```
-
----
-
-### 🏛️ The 6 Featured Engineering Sets
-
-<table>
-  <!-- Row 1 -->
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/Omi811/freellm-hub">
-          <img src="https://img.shields.io/badge/Set%2001-FreeLLM%20Hub-00f2fe?style=for-the-badge&logo=sparkles&logoColor=black" />
-        </a>
-      </div>
-      <br>
-      <b>⚡ Serverless Multi-Model Workstation</b>
-      <p>A 100% free web LLM workstation running entirely in-browser on GitHub Pages. Features Claude-style side-by-side interactive code/HTML artifacts, Antigravity multi-model switcher (42+ models), and Groq LPU hardware-routed inference (~450 tok/s).</p>
-      <p>
-        <a href="https://omi811.github.io/freellm-hub/"><b>🚀 Launch Live Hub</b></a> • 
-        <a href="https://github.com/Omi811/freellm-hub"><b>📂 View Repository</b></a>
-      </p>
-      <code>JavaScript</code> <code>Serverless</code> <code>GitHub Pages</code> <code>Artifacts</code>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/Omi811/omsetra">
-          <img src="https://img.shields.io/badge/Set%2002-Omsetra-10b981?style=for-the-badge&logo=currys&logoColor=white" />
-        </a>
-      </div>
-      <br>
-      <b>💼 Indian SME Reconciliation &amp; Collections</b>
-      <p>A free-first reconciliation workspace designed for Indian small businesses, founders, and accountants. Provides automated ledger reconciliation, invoice discrepancy tracking, and payment reminders without software lock-in.</p>
-      <p>
-        <a href="https://astrobharat-studio.hp909145.chatgpt.site/demo"><b>📊 Interactive Demo</b></a> • 
-        <a href="https://github.com/Omi811/omsetra"><b>📂 View Repository</b></a>
-      </p>
-      <code>TypeScript</code> <code>Fintech</code> <code>Reconciliation</code> <code>SaaS</code>
-    </td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/Omi811/rea-developer-ecosystem">
-          <img src="https://img.shields.io/badge/Set%2003-REA%20Ecosystem-a855f7?style=for-the-badge&logo=octopusdeploy&logoColor=white" />
-        </a>
-      </div>
-      <br>
-      <b>🤖 Agentic Blueprints &amp; MCP Servers</b>
-      <p>Reverse-engineered autonomous AI engineering suite. Contains reference MCP (Model Context Protocol) servers, tool implementations, and deployment blueprints for production AI development harnesses.</p>
-      <p>
-        <a href="https://github.com/Omi811/rea-developer-ecosystem"><b>🛠️ Explore Architecture</b></a>
-      </p>
-      <code>TypeScript</code> <code>MCP 2024</code> <code>Docker</code> <code>Autonomous Agents</code>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/Omi811/universal-seo-agent-suite">
-          <img src="https://img.shields.io/badge/Set%2004-Universal%20SEO-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white" />
-        </a>
-      </div>
-      <br>
-      <b>🔍 Tri-Platform GEO &amp; AI Search Engine</b>
-      <p>Cross-platform Generative Engine Optimization (GEO) agent suite. Harnesses 60+ hardened audit tools natively across Google Antigravity, OpenAI Codex, and Claude Code to capture citations in AI Overviews &amp; Perplexity.</p>
-      <p>
-        <a href="https://github.com/Omi811/universal-seo-agent-suite"><b>🧭 Inspect Agent Suite</b></a>
-      </p>
-      <code>Python</code> <code>GEO / SEO</code> <code>Agentic AI</code> <code>Tri-Platform</code>
-    </td>
-  </tr>
-
-  <!-- Row 3 -->
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://vedaachari.ompanchal.workers.dev">
-          <img src="https://img.shields.io/badge/Set%2005-VedaaChari-8b5cf6?style=for-the-badge&logo=cloudflare&logoColor=white" />
-        </a>
-      </div>
-      <br>
-      <b>🔮 Vedic Astronomy &amp; Reflection Platform</b>
-      <p>A solo-built astronomical calculation and personal reflection platform. Computes tropical/sidereal charts, Nakshatras, Vimshottari Dasha periods, and astronomical Panchang with zero forced signup and local privacy backups.</p>
-      <p>
-        <a href="https://vedaachari.ompanchal.workers.dev"><b>🚀 Live Platform</b></a> • 
-        <a href="https://vedaachari.ompanchal.workers.dev/life-explorer"><b>🧭 Life Explorer</b></a> • 
-        <a href="https://vedaachari.ompanchal.workers.dev/report-demo"><b>✨ Live Demo</b></a>
-      </p>
-      <code>TypeScript</code> <code>Cloudflare Workers</code> <code>Vedic Astronomy</code> <code>SaaS</code>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/Omi811/Accredian-frontend-task">
-          <img src="https://img.shields.io/badge/Set%2006-Referral%20Portal-ec4899?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </div>
-      <br>
-      <b>🎁 Interactive Referral &amp; Rewards Engine</b>
-      <p>High-conversion referral interface engineered with Material-UI and Framer Motion. Features animated modal dialogs, reactive form validation, and responsive mobile-first promotional landing design.</p>
-      <p>
-        <a href="https://accredian-frontend-task-ochre.vercel.app"><b>✨ View Live App</b></a> • 
-        <a href="https://github.com/Omi811/Accredian-frontend-task"><b>📂 View Repository</b></a>
-      </p>
-      <code>React</code> <code>Material-UI</code> <code>Framer Motion</code> <code>Vercel</code>
-    </td>
-  </tr>
-</table>
-
----
-
-### ☕ Support My Work &amp; Buy Me A Coffee
-
-If my open-source AI tooling, serverless workstations, or developer blueprints have provided you value, consider fueling my next build! Donations directly fund model API inference benchmarks, serverless hosting, and open-source tooling.
-
-<div align="center">
-
   <a href="https://buymeacoffee.com/omi811" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="52" style="height: 52px !important; width: 220px !important;" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" style="height: 42px !important; width: 178px !important;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://omi811.github.io/freellm-hub/coffee.html" target="_blank">
-    <img src="https://img.shields.io/badge/☕%20Interactive%20Coffee%20Page-Visit%20Webpage-00f2fe?style=for-the-badge" height="52" />
+    <img src="https://img.shields.io/badge/Patronage%20Portal-Live%20Page-38bdf8?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" height="42" />
   </a>
-
-  <br><br>
-  <p>
-    <a href="https://omi811.github.io/freellm-hub/coffee.html"><b>👉 Open Standalone Patronage Page (omi811.github.io/freellm-hub/coffee.html)</b></a>
-  </p>
-
-</div>
-
----
-
-### 🛠️ Technical Weaponry
-
-<div align="center">
-
-| Domain | Stack & Technologies |
-| :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript (ESNext)` `Python 3.12` `SQL` `HTML5/CSS3` |
-| **Agentic AI & LLMs** | `Model Context Protocol (MCP)` `Groq LPU` `OpenRouter` `Claude API` `Antigravity` |
-| **Frontend & UI** | `React 19` `Next.js` `Tailwind CSS` `Framer Motion` `Material-UI` |
-| **Backend & Cloud** | `Node.js` `Cloudflare Workers` `FastAPI` `Docker` `GitHub Actions (CI/CD)` `Vercel` `Serverless` |
-
-</div>
-
----
-
-### 📊 Real-Time GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Omi811&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00f2fe&icon_color=a855f7&text_color=94a3b8" alt="Omi GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Omi811&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=00f2fe&text_color=94a3b8" alt="Top Languages" height="165" />
 </p>
 
 ---
 
 <p align="center">
-  <samp>Designed &amp; engineered by <b>Omi</b> // Open to visionary engineering collaborations</samp>
+  <sub>© 2026 Omi · Open to high-impact software engineering roles and technical collaborations.</sub>
 </p>
