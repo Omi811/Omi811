@@ -52,7 +52,7 @@ I am a **Full-Stack &amp; Systems Engineer** specializing in agentic AI architec
 If you find my open-source AI tooling, serverless applications, or architectural blueprints useful, you can support continuous maintenance and cloud infrastructure:
 
 <p align="center">
-  <a href="https://buymeacoffee.com/omi811" target="_blank">
+  <a href="https://buymeacoffee.com/panchalom1w" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" style="height: 42px !important; width: 178px !important;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
