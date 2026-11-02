@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=780&lines=⚡+Building+FreeLLM+Hub+%E2%80%94+Zero-Cost+Serverless+AI+Workstation;🤖+Architecting+Model+Context+Protocol+(MCP)+%26+Autonomous+Agents;💼+Crafting+Omsetra+%E2%80%94+SME+Reconciliation+%26+Cashflow+Rails;🛠️+Full-Stack+TypeScript+%7C+Python+%7C+Next.js+%7C+FastAPI" alt="Typing Indicator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=780&lines=⚡+Building+FreeLLM+Hub+%E2%80%94+Zero-Cost+Serverless+AI+Workstation;🤖+Architecting+Model+Context+Protocol+(MCP)+%26+Autonomous+Agents;💼+Crafting+Omsetra+%E2%80%94+SME+Reconciliation+%26+Cashflow+Rails;🔮+Engineering+VedaaChari+%E2%80%94+Vedic+Astronomy+%26+Reflection+Platform;🛠️+Full-Stack+TypeScript+%7C+Python+%7C+Next.js+%7C+Cloudflare+Workers" alt="Typing Indicator" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Omi811?tab=repositories"><img src="https://img.shields.io/badge/Specialization-Agentic%20AI%20%26%20Fintech-00f2fe?style=for-the-badge&logo=openai&logoColor=000" /></a>
-  <a href="https://github.com/Omi811"><img src="https://img.shields.io/badge/Architecture-MCP%20%26%20Serverless-a855f7?style=for-the-badge&logo=serverless&logoColor=fff" /></a>
-  <a href="https://github.com/Omi811/omsetra"><img src="https://img.shields.io/badge/SaaS-Omsetra-10b981?style=for-the-badge&logo=cashapp&logoColor=fff" /></a>
+  <a href="https://github.com/Omi811/omsetra"><img src="https://img.shields.io/badge/Fintech-Omsetra-10b981?style=for-the-badge&logo=cashapp&logoColor=fff" /></a>
+  <a href="https://vedaachari.ompanchal.workers.dev"><img src="https://img.shields.io/badge/Platform-VedaaChari-8b5cf6?style=for-the-badge&logo=cloudflare&logoColor=fff" /></a>
   <a href="https://omi811.github.io/freellm-hub/coffee.html"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
 </p>
 
@@ -27,11 +27,11 @@ export const omi: DeveloperSpec = {
     "Autonomous Agent Infrastructure & Model Context Protocol (MCP)",
     "Serverless Client-Side AI Tooling with Real-Time Streaming Artifacts",
     "SME Payment Reconciliation & Collections Architecture for India",
-    "Full-Stack Web Platforms & Interactive Talent Marketplaces"
+    "Vedic Astronomical Computation & Private Reflection Platforms"
   ],
   capabilities: {
     languages: ["TypeScript", "Python", "JavaScript (ESNext)", "SQL"],
-    frameworks: ["React 19", "Next.js", "Node.js", "FastAPI", "Tailwind CSS", "Material-UI"],
+    frameworks: ["React 19", "Next.js", "Cloudflare Workers", "Node.js", "FastAPI", "Tailwind CSS", "Material-UI"],
     protocols: ["Model Context Protocol (MCP)", "Server-Sent Events (SSE)", "REST/JSON-RPC"],
     runtimeSpeed: "~450 tokens/sec via Groq LPU hardware acceleration"
   }
@@ -113,18 +113,19 @@ export const omi: DeveloperSpec = {
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/Omi811/codeBounty">
-          <img src="https://img.shields.io/badge/Set%2005-CodeBounty-3b82f6?style=for-the-badge&logo=render&logoColor=white" />
+        <a href="https://vedaachari.ompanchal.workers.dev">
+          <img src="https://img.shields.io/badge/Set%2005-VedaaChari-8b5cf6?style=for-the-badge&logo=cloudflare&logoColor=white" />
         </a>
       </div>
       <br>
-      <b>🌐 Freelance &amp; Technical Talent Marketplace</b>
-      <p>Full-stack freelance platform connecting developers, UI/UX designers, and data analysts with clients seeking complex technical expertise—from database architecture to end-to-end applications.</p>
+      <b>🔮 Vedic Astronomy &amp; Reflection Platform</b>
+      <p>A solo-built astronomical calculation and personal reflection platform. Computes tropical/sidereal charts, Nakshatras, Vimshottari Dasha periods, and astronomical Panchang with zero forced signup and local privacy backups.</p>
       <p>
-        <a href="https://codebounty.onrender.com/"><b>🚀 Live Platform</b></a> • 
-        <a href="https://github.com/Omi811/codeBounty"><b>📂 View Repository</b></a>
+        <a href="https://vedaachari.ompanchal.workers.dev"><b>🚀 Live Platform</b></a> • 
+        <a href="https://vedaachari.ompanchal.workers.dev/life-explorer"><b>🧭 Life Explorer</b></a> • 
+        <a href="https://vedaachari.ompanchal.workers.dev/report-demo"><b>✨ Live Demo</b></a>
       </p>
-      <code>Full-Stack</code> <code>Marketplace</code> <code>Node.js</code> <code>Render</code>
+      <code>TypeScript</code> <code>Cloudflare Workers</code> <code>Vedic Astronomy</code> <code>SaaS</code>
     </td>
     <td width="50%" valign="top">
       <div align="center">
@@ -178,7 +179,7 @@ If my open-source AI tooling, serverless workstations, or developer blueprints h
 | **Languages** | `TypeScript` `JavaScript (ESNext)` `Python 3.12` `SQL` `HTML5/CSS3` |
 | **Agentic AI & LLMs** | `Model Context Protocol (MCP)` `Groq LPU` `OpenRouter` `Claude API` `Antigravity` |
 | **Frontend & UI** | `React 19` `Next.js` `Tailwind CSS` `Framer Motion` `Material-UI` |
-| **Backend & Cloud** | `Node.js` `FastAPI` `Docker` `GitHub Actions (CI/CD)` `Vercel` `Serverless` |
+| **Backend & Cloud** | `Node.js` `Cloudflare Workers` `FastAPI` `Docker` `GitHub Actions (CI/CD)` `Vercel` `Serverless` |
 
 </div>
 
