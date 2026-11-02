@@ -56,7 +56,7 @@ If you find my open-source AI tooling, serverless applications, or architectural
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" style="height: 42px !important; width: 178px !important;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://omi811.github.io/freellm-hub/coffee.html" target="_blank">
+  <a href="https://omi811.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Patronage%20Portal-Live%20Page-38bdf8?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" height="42" />
   </a>
 </p>
