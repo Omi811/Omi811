@@ -10,7 +10,7 @@
   <a href="https://github.com/Omi811?tab=repositories"><img src="https://img.shields.io/badge/Specialization-Agentic%20AI%20%26%20Fintech-00f2fe?style=for-the-badge&logo=openai&logoColor=000" /></a>
   <a href="https://github.com/Omi811"><img src="https://img.shields.io/badge/Architecture-MCP%20%26%20Serverless-a855f7?style=for-the-badge&logo=serverless&logoColor=fff" /></a>
   <a href="https://github.com/Omi811/omsetra"><img src="https://img.shields.io/badge/SaaS-Omsetra-10b981?style=for-the-badge&logo=cashapp&logoColor=fff" /></a>
-  <a href="https://github.com/Omi811/freellm-hub"><img src="https://img.shields.io/badge/Speed-~450%20tok%2Fs-f59e0b?style=for-the-badge&logo=fastapi&logoColor=fff" /></a>
+  <a href="https://omi811.github.io/freellm-hub/coffee.html"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
 </p>
 
 ---
@@ -26,11 +26,12 @@ export const omi: DeveloperSpec = {
   domains: [
     "Autonomous Agent Infrastructure & Model Context Protocol (MCP)",
     "Serverless Client-Side AI Tooling with Real-Time Streaming Artifacts",
-    "SME Payment Reconciliation & Collections Architecture for India"
+    "SME Payment Reconciliation & Collections Architecture for India",
+    "Full-Stack Web Platforms & Interactive Talent Marketplaces"
   ],
   capabilities: {
     languages: ["TypeScript", "Python", "JavaScript (ESNext)", "SQL"],
-    frameworks: ["React 19", "Next.js", "Node.js", "FastAPI", "Tailwind CSS"],
+    frameworks: ["React 19", "Next.js", "Node.js", "FastAPI", "Tailwind CSS", "Material-UI"],
     protocols: ["Model Context Protocol (MCP)", "Server-Sent Events (SSE)", "REST/JSON-RPC"],
     runtimeSpeed: "~450 tokens/sec via Groq LPU hardware acceleration"
   }
@@ -39,9 +40,10 @@ export const omi: DeveloperSpec = {
 
 ---
 
-### 🏛️ The Core Ecosystem Sets
+### 🏛️ The 6 Featured Engineering Sets
 
 <table>
+  <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top">
       <div align="center">
@@ -74,6 +76,8 @@ export const omi: DeveloperSpec = {
       <code>TypeScript</code> <code>Fintech</code> <code>Reconciliation</code> <code>SaaS</code>
     </td>
   </tr>
+
+  <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top">
       <div align="center">
@@ -104,7 +108,64 @@ export const omi: DeveloperSpec = {
       <code>Python</code> <code>GEO / SEO</code> <code>Agentic AI</code> <code>Tri-Platform</code>
     </td>
   </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/Omi811/codeBounty">
+          <img src="https://img.shields.io/badge/Set%2005-CodeBounty-3b82f6?style=for-the-badge&logo=render&logoColor=white" />
+        </a>
+      </div>
+      <br>
+      <b>🌐 Freelance &amp; Technical Talent Marketplace</b>
+      <p>Full-stack freelance platform connecting developers, UI/UX designers, and data analysts with clients seeking complex technical expertise—from database architecture to end-to-end applications.</p>
+      <p>
+        <a href="https://codebounty.onrender.com/"><b>🚀 Live Platform</b></a> • 
+        <a href="https://github.com/Omi811/codeBounty"><b>📂 View Repository</b></a>
+      </p>
+      <code>Full-Stack</code> <code>Marketplace</code> <code>Node.js</code> <code>Render</code>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com/Omi811/Accredian-frontend-task">
+          <img src="https://img.shields.io/badge/Set%2006-Referral%20Portal-ec4899?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </div>
+      <br>
+      <b>🎁 Interactive Referral &amp; Rewards Engine</b>
+      <p>High-conversion referral interface engineered with Material-UI and Framer Motion. Features animated modal dialogs, reactive form validation, and responsive mobile-first promotional landing design.</p>
+      <p>
+        <a href="https://accredian-frontend-task-ochre.vercel.app"><b>✨ View Live App</b></a> • 
+        <a href="https://github.com/Omi811/Accredian-frontend-task"><b>📂 View Repository</b></a>
+      </p>
+      <code>React</code> <code>Material-UI</code> <code>Framer Motion</code> <code>Vercel</code>
+    </td>
+  </tr>
 </table>
+
+---
+
+### ☕ Support My Work &amp; Buy Me A Coffee
+
+If my open-source AI tooling, serverless workstations, or developer blueprints have provided you value, consider fueling my next build! Donations directly fund model API inference benchmarks, serverless hosting, and open-source tooling.
+
+<div align="center">
+
+  <a href="https://buymeacoffee.com/omi811" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="52" style="height: 52px !important; width: 220px !important;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://omi811.github.io/freellm-hub/coffee.html" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Interactive%20Coffee%20Page-Visit%20Webpage-00f2fe?style=for-the-badge" height="52" />
+  </a>
+
+  <br><br>
+  <p>
+    <a href="https://omi811.github.io/freellm-hub/coffee.html"><b>👉 Open Standalone Patronage Page (omi811.github.io/freellm-hub/coffee.html)</b></a>
+  </p>
+
+</div>
 
 ---
 
