@@ -16,7 +16,7 @@ I am a **Full-Stack &amp; Systems Engineer** specializing in agentic AI architec
 
 | Project | Architectural Domain | Description &amp; Key Technologies | Production Links |
 | :--- | :--- | :--- | :--- |
-| **[FreeLLM Hub](https://github.com/Omi811/freellm-hub)** | Serverless AI Workstation | 100% free, client-side web LLM suite featuring Claude-style interactive code/HTML artifacts canvas, 42+ frontier models, and Groq LPU hardware-accelerated streaming (~450 tok/s).<br><sub>`JavaScript` • `Serverless` • `WebLLM` • `GitHub Pages`</sub> | [🚀 Live Workstation](https://omi811.github.io/freellm-hub/)<br>[📂 Source Repository](https://github.com/Omi811/freellm-hub) |
+| **[FreeLLM Hub](https://github.com/Omi811/freellm-hub)** | Serverless AI Workstation | **Trial launch.** Browser-based multi-model AI workspace with chat and interactive code/HTML artifacts. Bring your own provider account; availability, quotas and charges depend on the provider. Features are being tested and refined.<br><sub>`JavaScript` • `Serverless` • `WebLLM` • `GitHub Pages`</sub> | [🚀 Live Workstation](https://omi811.github.io/freellm-hub/)<br>[📂 Source Repository](https://github.com/Omi811/freellm-hub) |
 | **[Omsetra](https://github.com/Omi811/omsetra)** | Fintech Reconciliation Workspace | Free-first automated reconciliation and collections workspace engineered for Indian founders, SMEs, and accountants. Provides automated ledger parsing, invoice discrepancy tracking, and payment reminders.<br><sub>`TypeScript` • `Next.js` • `Fintech Rails` • `Tailwind CSS`</sub> | [📊 Interactive Demo](https://astrobharat-studio.hp909145.chatgpt.site/demo)<br>[📂 Source Repository](https://github.com/Omi811/omsetra) |
 | **[VedaaChari](https://vedaachari.ompanchal.workers.dev)** | Astronomical Computation Platform | Production Vedic astrology and personal reflection platform deployed on Cloudflare Workers. Computes sidereal birth charts, Vimshottari Dasha periods, and astronomical Panchang with zero mandatory signup and local data ownership.<br><sub>`TypeScript` • `Cloudflare Workers` • `Astronomical Algorithms` • `SaaS`</sub> | [🚀 Production Platform](https://vedaachari.ompanchal.workers.dev)<br>[✨ Interactive Demo](https://vedaachari.ompanchal.workers.dev/report-demo) |
 | **[REA Developer Ecosystem](https://github.com/Omi811/rea-developer-ecosystem)** | Agentic Infrastructure &amp; Protocols | Reverse-engineered architecture blueprints and reference Model Context Protocol (MCP) servers for autonomous AI engineering environments.<br><sub>`TypeScript` • `MCP (Model Context Protocol)` • `Docker` • `Blueprints`</sub> | [🛠️ Architecture Specs](https://github.com/Omi811/rea-developer-ecosystem) |
@@ -39,10 +39,11 @@ I am a **Full-Stack &amp; Systems Engineer** specializing in agentic AI architec
 ### Engineering Activity &amp; Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Omi811&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=38bdf8&amp;icon_color=818cf8&amp;text_color=94a3b8" alt="GitHub Overview Metrics" height="155" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Omi811&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=38bdf8&amp;text_color=94a3b8" alt="Top Languages" height="155" />
+  <a href="https://github.com/Omi811?tab=repositories"><img src="assets/activity.svg" alt="Public GitHub activity snapshot; see card for update date" width="49%" /></a>
+  <a href="https://github.com/Omi811?tab=repositories"><img src="assets/languages.svg" alt="Primary language counts across original public repositories; not code-byte percentages" width="49%" /></a>
 </p>
+
+<sub>Repository-hosted public snapshots, dated on each card. Language mix counts non-fork repositories by their primary language. Refresh with the **Refresh public profile cards** workflow or `python scripts/refresh_profile.py`. [View current GitHub activity](https://github.com/Omi811?tab=overview).</sub>
 
 ---
 
@@ -55,7 +56,7 @@ If you find my open-source AI tooling, serverless applications, or architectural
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" style="height: 42px !important; width: 178px !important;" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://omi811.github.io/" target="_blank">
+  <a href="https://omi811.github.io/support.html#qr" target="_blank">
     <img src="https://img.shields.io/badge/Patronage%20Portal-UPI%20%26%20Cards-38bdf8?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" height="42" />
   </a>
 </p>
